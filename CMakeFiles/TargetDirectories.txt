@@ -1,0 +1,3 @@
+/home/pi/testes/xenomai/helloWorld/CMakeFiles/rebuild_cache.dir
+/home/pi/testes/xenomai/helloWorld/CMakeFiles/edit_cache.dir
+/home/pi/testes/xenomai/helloWorld/CMakeFiles/helloWorld.dir
